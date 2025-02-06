@@ -41,7 +41,7 @@ pip install -r requirements.txt
 2. Place your images in the `./images` directory.
 3. Run the Streamlit app:
    ```sh
-   streamlit run app.py
+   streamlit run app2.py
    ```
 4. Open your web browser and go to [http://localhost:8501](http://localhost:8501).
 5. Click "Process Documents and Images" to initialize the vector store.
