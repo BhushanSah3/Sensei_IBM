@@ -62,8 +62,3 @@ If you encounter any issues:
 - Ensure Ollama is running and accessible.
 - Check that all required libraries are installed.
 - Verify that Tesseract OCR is properly installed and accessible in your system PATH.
-
-
-## Ollama is used  (Deepseek-r1), we have our project running locally but unfortunately we are not able to deploy it in cloud due to costrainsts of LLMs,
-
-
